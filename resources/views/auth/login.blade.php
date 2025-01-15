@@ -59,13 +59,6 @@
                                     About Us
                                 </a>
                             </li>
-                            <!--<li>
-                                <a class="block px-4 py-2 mr-2 font-normal transition-all ease-in-out lg-max:opacity-0 duration-250 text-sm text-slate-700 lg:px-2"
-                                   href="{{route('register')}}">
-                                    <i class="mr-1 fas fa-user-circle opacity-60"></i>
-                                    Register
-                                </a>
-                            </li>  -->
                             <li>
                                 <a class="block px-4 py-2 mr-2 font-normal transition-all ease-in-out lg-max:opacity-0 duration-250 text-sm text-slate-700 lg:px-2"
                                    href="{{route('login')}}">
@@ -146,7 +139,7 @@
                             <!-- Menambahkan logo -->
                             <img src="assets/img/LOGO.png" class="z-20 mx-auto mb-4"
                                  style="width: 250px; height: auto;">
-                            
+
                             <p class="z-30 text-white" style="font-size: 2.8ch;">IMPLEMENTASI WEB SERVER BERBASIS BASE64
                                 SEBAGAI PEMANTAUAN AREA POS JAGA MILITER</p>
                         </div>
